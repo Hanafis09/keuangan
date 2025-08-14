@@ -11,6 +11,7 @@ Sistem penggajihan pegawai dengan fitur potongan pajak, BPJS, BPJS-TK, dan tamba
 - ✅ **Perhitungan Gaji Otomatis** - Hitung gaji dengan potongan pajak, BPJS Kesehatan, dan BPJS Ketenagakerjaan
 - ✅ **Laporan & Slip Gaji** - Generate laporan penggajian dan cetak slip gaji individual
 - ✅ **Dashboard Informatif** - Overview data pegawai, jasa pelayanan, dan statistik gaji
+- ✅ **Neraca Klinik** - Overview data pemasukan, pengeluaran,kas klinik
 
 ## Komponen Perhitungan Gaji
 

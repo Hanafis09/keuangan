@@ -2,7 +2,7 @@
 CREATE BY HANAFI
 
 Sistem penggajihan pegawai dengan fitur potongan pajak, BPJS, BPJS-TK, dan tambahan jasa pelayanan.
-
+fitur Keuangan Klinik
 ## Fitur Utama
 
 - ✅ **Manajemen Data Pegawai** - CRUD data pegawai dengan gaji pokok, tunjangan jabatan, dan tunjangan makan
